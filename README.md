@@ -1,5 +1,5 @@
 # Debating game 
-In progress: Please feel free to adapt the rules, change it, bend it and give feedback how it worked for your group!
+_In progress: Please feel free to adapt the rules, change it, bend it and give feedback how it worked for your group!_
 
 This game has been created as a final exercise to test newly learnt debating skills. As the participants loved it, I made the rules and the material public. It uses famous fictional characters in a werewolves-inspired way and is designed for large groups (16+ players).
 
@@ -58,24 +58,19 @@ You are not allowed to reveal (physcial showing) your special power as long as y
 ## FAQ
 In general you should think to keep those rules secret, even if someone asks. Secret rules provokes more discussion.
 
-**Am I allowed to lie about my special power?**
-
+#### Am I allowed to lie about my special power?
 Yes! Remind that you are not allowed to reveal your special power to other characters.
 
-**Can I kick out someone after the voting process?**
-
+#### Can I kick out someone after the voting process?
 No and other people need to have a reasonable time to react on your action – usually 2.6 seconds.
 
-**Only 1 player in a group?**
-
+#### Only 1 player in a group?
 The player wins automatically.
 
-**Only 2 players in a group?**
-
+#### Only 2 players in a group?
 Both players win automatically.
 
-**2 or more players have the most votes**
-
+#### 2 or more players have the most votes
 If nobody has a special power there is a runoff, as long as someone wins – or you want to introduce another tie-breaker like Paper, Scissors, Stone.
 
 ## Credits
